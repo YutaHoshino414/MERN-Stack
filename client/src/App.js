@@ -20,11 +20,11 @@ const App = () => {
     <Container maxWidth="lg">
       <AppBar className={classes.appBar} position="static" color="inherit">
         <Typography className={classes.heading} variant="h2" align="center">Memories</Typography>
-        <img classNmame={classes.image} src={memories} alt="memories" height="60" />
+        <img className={classes.image} src={memories} alt="memories" height="60" />
       </AppBar>
       <Grow in>
-        <container>
-          <Grid container justify="space-between" alignItems="stretch" spacing={3}>
+        <Container>
+          <Grid container justifyContent="space-between" alignItems="stretch" spacing={3}>
             <Grid item xs={12} sm={7}>
               <Posts/>
             </Grid>
@@ -32,7 +32,7 @@ const App = () => {
               <Form/>
             </Grid>
           </Grid>
-        </container>
+        </Container>
       </Grow>
     </Container>
   )

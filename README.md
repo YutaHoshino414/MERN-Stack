@@ -1,11 +1,18 @@
-## Full Stack MERN Project
+# Full Stack MERN Project
 
-### Client: React
+## Client: 
+### React
+<br>
 
-### Server: Express, MongoDB, Node.js
+## Server: 
+### Express, MongoDB, Node.js
+<br>  
 
-### ソース: 
+### Source: 
+Full Stack MERN Project [_Course on Youtube_]
 
-Full Stack MERN Project - : 
-https://www.youtube.com/watch?v=ngc9gnGgUdA&t=512s
+> Video:  
+https://www.youtube.com/watch?v=ngc9gnGgUdA&t=512s  
+
+> Github:
 https://github.com/adrianhajdin/project_mern_memories
